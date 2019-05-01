@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Display_Graphic_Extra")(type "Legacy")(uri "${KIPRJMOD}/library/Display_Graphic_Extra.lib")(options "")(descr ""))
+  (lib (name "LED_Driver_Extra")(type "Legacy")(uri "${KIPRJMOD}/library/LED_Driver_Extra.lib")(options "")(descr ""))
+)
